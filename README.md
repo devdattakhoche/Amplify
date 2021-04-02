@@ -90,6 +90,7 @@ I am only listing the main things which are needed for this rest you can see ins
 First of all you will need a database of your own which should be created in firebase , we created out database with cloud-firestore you can use whichever database you want, we recommend Firestore.
 This the Database structure.
 ```
+
 [
   Tracks : [
     {
@@ -133,8 +134,6 @@ This the Database structure.
     }
   ]
 ]
-
-
 
 
 ```
