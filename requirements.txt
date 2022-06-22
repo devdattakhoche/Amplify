@@ -23,7 +23,7 @@ matplotlib==3.2.1
 msgpack==1.0.0
 mutagen==1.44.0
 networkx==2.4
-numpy==1.18.3
+numpy==1.22.0
 Pillow==7.1.1
 protobuf==3.11.3
 pyasn1==0.4.8
